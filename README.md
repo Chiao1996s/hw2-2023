@@ -1,2 +1,2 @@
-# hw2-2023
-HW 2 - Simple CSS
+# hw3_simple_css
+Starter code for simple css assignment
